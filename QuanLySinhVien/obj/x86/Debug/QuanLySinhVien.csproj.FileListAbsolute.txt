@@ -1,0 +1,15 @@
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.Form1.resources
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.exe
+D:\CSharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.pdb
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.exe
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.pdb
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.Form1.resources
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\hoc Csharp\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
